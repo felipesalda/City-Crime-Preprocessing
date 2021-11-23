@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+creds.json
+
+Raw_data/hurtos\2009-2012.csv
